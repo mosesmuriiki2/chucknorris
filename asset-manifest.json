@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mosesmuriiki2.github.io/chucknorris_jokes/static/css/main.74d5f3de.chunk.css",
+    "main.js": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/main.399906eb.chunk.js",
+    "main.js.map": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/main.399906eb.chunk.js.map",
+    "runtime-main.js": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/runtime-main.a41b88cf.js",
+    "runtime-main.js.map": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/runtime-main.a41b88cf.js.map",
+    "static/js/2.7376ad5d.chunk.js": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/2.7376ad5d.chunk.js",
+    "static/js/2.7376ad5d.chunk.js.map": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/2.7376ad5d.chunk.js.map",
+    "static/js/3.8ae02531.chunk.js": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/3.8ae02531.chunk.js",
+    "static/js/3.8ae02531.chunk.js.map": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/3.8ae02531.chunk.js.map",
+    "index.html": "/mosesmuriiki2.github.io/chucknorris_jokes/index.html",
+    "static/css/main.74d5f3de.chunk.css.map": "/mosesmuriiki2.github.io/chucknorris_jokes/static/css/main.74d5f3de.chunk.css.map",
+    "static/js/2.7376ad5d.chunk.js.LICENSE.txt": "/mosesmuriiki2.github.io/chucknorris_jokes/static/js/2.7376ad5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a41b88cf.js",
+    "static/js/2.7376ad5d.chunk.js",
+    "static/css/main.74d5f3de.chunk.css",
+    "static/js/main.399906eb.chunk.js"
+  ]
+}
